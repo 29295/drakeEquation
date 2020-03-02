@@ -34,7 +34,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
   // ask for numberOfExoplanets store in ne variable and commit
   // ask for f_l store in the f_l variable and commit
   // ask for f_i store in the f_i variable and commit
-  // ask for f_c store in the f_c variable and commit       
+  // ask for f_c store in the f_c variable and commit
+  // ask for L store in the L variable and commit       
 N = rStar * f_p * numberOfExoplanets * f_l * f_i * f_c * L;
 
    System.out.println("the number of intelligent species that out there "\n*
