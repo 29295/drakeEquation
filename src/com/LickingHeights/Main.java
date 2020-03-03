@@ -37,6 +37,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
 
         keyboard = new Scanner(System.in);
    // Ask for rStar number store in the rStar variable and commit
+        System.out.println("How many stars are formed every year (1-5)?");
+        rStar = keyboard.nextInt();
 
 
   // ask for f_p store in the f_p variable and commit
